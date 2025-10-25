@@ -5,7 +5,7 @@
 | Addon | Description | Download |
 | -- | -- | -- |
 | ACP | Addon Control Panel for managing addons in-game | [ACP-3.4.39.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/ACP-3.4.39.zip) |
-| AdvancedInterfaceOptions | Unlocks hidden interface settings | [AdvancedInterfaceOptions-1.2.2.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/AdvancedInterfaceOptions-1.2.2.zip) |
+| AdvancedInterfaceOptions | Unlocks hidden and "removed" interface settings | [AdvancedInterfaceOptions-1.2.2.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/AdvancedInterfaceOptions-1.2.2.zip) |
 | Clique | Click-casting for spells and macros | [Clique-v70300-1.0.0.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Clique-v70300-1.0.0.zip) |
 | DejaCharacterStats | Detailed character stats display | [DejaCharacterStats730rc108.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DejaCharacterStats730rc108.zip) |
 | ElvUI | Complete UI replacement | [elvui-10.74.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/elvui-10.74.zip) |
@@ -27,7 +27,7 @@
 | SharedMedia | Additional textures, fonts, and sounds | [SharedMedia-r190-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/SharedMedia-r190-alpha.zip) |
 | SharedMediaAdditionalFonts | Extra fonts for SharedMedia | [SharedMediaAdditionalFonts-1.0.24.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/SharedMediaAdditionalFonts-1.0.24.zip) |
 | TellMeWhen | Icon-based monitoring for buffs, debuffs, and cooldowns | [TellMeWhen-8.4.5.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/TellMeWhen-8.4.5.zip) |
-| VuhDo | Raid frames with click-healing | [VuhDo-v3.92.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/VuhDo-v3.92.zip) |
+| VuhDo | Avanced Raid frames with click-healing and more | [VuhDo-v3.92.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/VuhDo-v3.92.zip) |
 | WeakAuras | Customizable graphical notifications | [WeakAuras-2.5.12-15-g9466c19.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WeakAuras-2.5.12-15-g9466c19.zip) |
 | WeakAuras | Customizable graphical notifications | [WeakAuras-2.5.12.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WeakAuras-2.5.12.zip) |
 | WeakAuras | Customizable graphical notifications (backport) | [WeakAuras-8.3-to-7.3.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WeakAuras-8.3-to-7.3.zip) |
@@ -42,7 +42,7 @@
 | Details | Advanced damage and healing meter | [Details-r717-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Details-r717-alpha.zip) |
 | Exorsus Raid Tools | Raid management and analysis tools | [ExRT3910.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/ExRT3910.zip) |
 | Hekili | Priority helper for rotations | [Hekili-7.3.5.24-39-g8207722-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Hekili-7.3.5.24-39-g8207722-alpha.zip) |
-| LFRAdvanced | Advanced features for LFR | [LFRAdvanced-9b035e0-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/LFRAdvanced-9b035e0-alpha.zip) |
+| LFRAdvanced | Advanced features for LFR/Group finder | [LFRAdvanced-9b035e0-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/LFRAdvanced-9b035e0-alpha.zip) |
 | LittleWigs | Dungeon boss warnings | [LittleWigs-v7.3.31.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/LittleWigs-v7.3.31.zip) |
 | Method Dungeon Tools | Mythic+ route planning | [MethodDungeonTools-v1.5.1.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/MethodDungeonTools-v1.5.1.zip) |
 | oRA3 | Raid assistance tools | [oRA3-v7.3.13.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/oRA3-v7.3.13.zip) |
@@ -54,7 +54,7 @@
 | -- | -- | -- |
 | AllTheThings | Tracks collectibles across characters | [AllTheThings_1.6.3.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/AllTheThings_1.6.3.zip) |
 | BtWQuests | Better tracking for quest chains | [BtWQuests-v1.1.3.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/BtWQuests-v1.1.3.zip) |
-| CQuestCounter | Counts completed quests | [CQuestCounter1.4.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/CQuestCounter1.4.zip) |
+| CQuestCounter | Returns the tracker for number of accepted quests | [CQuestCounter1.4.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/CQuestCounter1.4.zip) |
 | ConsLegion | Speed leveling guide for Legion | [ConsLegion.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/ConsLegion.zip) |
 | DailyGlobalCheck | Tracks dailies and weeklies across characters | [DailyGlobalCheck-v1.5.3.2.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DailyGlobalCheck-v1.5.3.2.zip) |
 | DailyGlobalCheck Garrison Missions | Plugin for garrison missions | [DailyGlobalCheck_GarrisonMissions-v1.5.5.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DailyGlobalCheck_GarrisonMissions-v1.5.5.zip) |
@@ -106,7 +106,7 @@
 | World Quest Tab | Enhanced world quest interface | [WorldQuestTab_7.3.02e.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WorldQuestTab_7.3.02e.zip) |
 | World Quest Tracker | Tracks and organizes world quests | [WorldQuestTracker-v7.3.5.283-release.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WorldQuestTracker-v7.3.5.283-release.zip) |
 | World Quests List | List view for world quests | [WorldQuestsList50.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WorldQuestsList50.zip) |
-| Zygor Guides | Comprehensive in-game guides | [Zygor 6.1.17896 (7.3.5).zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Zygor 6.1.17896 (7.3.5).zip) |
+| Zygor Guides | Comprehensive in-game guides (Contains all the guides) | [Zygor 6.1.17896 (7.3.5).zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Zygor 6.1.17896 (7.3.5).zip) |
 | TomTom | Waypoint and navigation system | [tomtomv70300-1.0.1-beta.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/tomtomv70300-1.0.1-beta.zip) |
 
 ## 📦 Inventory, Professions & Utility Addons
@@ -116,10 +116,10 @@
 | GarbageProtector | Prevents performance issues from garbage collection | [!!!GarbageProtector-2017-09-03-release.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/!!!GarbageProtector-2017-09-03-release.zip) |
 | Altoholic | Tracks inventory across alts | [Altoholic.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Altoholic.zip) |
 | Auctionator | Simplifies auction house operations | [Auctionator.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Auctionator.zip) |
-| Can I Mog It | Checks if items are new for transmog | [CanIMogIt-7.3.5v1.8.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/CanIMogIt-7.3.5v1.8.zip) |
-| CrucibleWeight | Shows values for Netherlight Crucible traits | [CrucibleWeight_v18.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/CrucibleWeight_v18.zip) |
+| Can I Mog It | Displays information if items are new for transmog | [CanIMogIt-7.3.5v1.8.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/CanIMogIt-7.3.5v1.8.zip) |
+| CrucibleWeight | Shows weighted values for Netherlight Crucible | [CrucibleWeight_v18.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/CrucibleWeight_v18.zip) |
 | Easy Delete Confirm | Simplifies item deletion confirmation | [EasyDeleteConfirm.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/EasyDeleteConfirm.zip) |
-| Easy Obliterate | Adds interface for obliterating items | [Easy_Obliterate_30.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Easy_Obliterate_30.zip) |
+| Easy Obliterate | Improves interface for obliterating items | [Easy_Obliterate_30.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Easy_Obliterate_30.zip) |
 | Fishing Buddy | Enhances fishing experience | [FishingBuddy-1.8.4.9.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/FishingBuddy-1.8.4.9.zip) |
 | Garrison Commander | Automates garrison missions | [GarrisonCommander-2.18.5.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/GarrisonCommander-2.18.5.zip) |
 | Loot Appraiser | Evaluates loot value | [LootAppraiser_2017.v1.7.1.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/LootAppraiser_2017.v1.7.1.zip) |
@@ -144,7 +144,7 @@
 | TSM Shopping | Shopping module for TSM | [TradeSkillMaster_Shopping-1-1.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/TradeSkillMaster_Shopping-1-1.zip) |
 | TSM Shopping | Shopping module for TSM | [TradeSkillMaster_Shopping.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/TradeSkillMaster_Shopping.zip) |
 | TSM Warehousing | Warehousing module for TSM | [TradeSkillMaster_Warehousing.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/TradeSkillMaster_Warehousing.zip) |
-| XLoot | Customizable loot frames | [XLoot-7.3-3.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/XLoot-7.3-3.zip) |
+| XLoot | Customizable loot frames and filters | [XLoot-7.3-3.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/XLoot-7.3-3.zip) |
 
 ## 🐾 Pet & Battle Addons
 
@@ -157,7 +157,7 @@
 | Rematch ElvUI Skin | ElvUI skin for Rematch | [RematchElvUISkin_1_0_11.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/RematchElvUISkin_1_0_11.zip) |
 | td Battle Pet Script | Scripts for pet battles | [tdBattlePetScript-70300.04.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/tdBattlePetScript-70300.04.zip) |
 | td Battle Pet Script Rematch | Rematch integration for pet scripts | [tdBattlePetScript_Rematch-70300.02.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/tdBattlePetScript_Rematch-70300.02.zip) |
-| Xu Fu Pet Import | Imports pet battle strategies | [XuFuPetImport-v1.0.9.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/XuFuPetImport-v1.0.9.zip) |
+| Xu Fu Pet Import | Export your pet collection to [Xu-Fu](https://www.wow-petguide.com/) | [XuFuPetImport-v1.0.9.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/XuFuPetImport-v1.0.9.zip) |
 
 ## 📚 Libraries & Miscellaneous
 
@@ -165,9 +165,9 @@
 | -- | -- | -- |
 | Ace3 | Addon development library | [Ace3-r1179-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Ace3-r1179-alpha.zip) |
 | AceGUI SharedMedia Widgets | Widgets for AceGUI with SharedMedia | [AceGUI-3.0-SharedMediaWidgets-r59-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/AceGUI-3.0-SharedMediaWidgets-r59-alpha.zip) |
-| LeafPack | UI compilation pack (likely for custom setups) | [LeafPack.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/LeafPack.zip) |
+| LeafPack | Leaf's UI compilation pack | [LeafPack.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/LeafPack.zip) |
 | MetaWoW Addons Pack | Collection of addons from MetaWoW | [Metawow_Addons_Pack.rar](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Metawow_Addons_Pack.rar) |
-| Mysterious Camel Figurines | Tracks spawn locations for camel figurines mount | [Mysterious Camel Figurines v1.9.5.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Mysterious Camel Figurines v1.9.5.zip) |
+| Mysterious Camel Figurines | Tracks spawn locations for camel figurines in Uldum | [Mysterious Camel Figurines v1.9.5.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Mysterious Camel Figurines v1.9.5.zip) |
 
 ## About
 
