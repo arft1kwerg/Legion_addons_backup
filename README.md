@@ -74,7 +74,7 @@
 | DailyGlobalCheck WoD Rare Mobs | Plugin for WoD rare mobs | [DailyGlobalCheck_Wod_RareMobs-v1.5.2.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DailyGlobalCheck_Wod_RareMobs-v1.5.2.zip) |
 | DailyGlobalCheck WoD Treasure Chests | Plugin for WoD treasures | [DailyGlobalCheck_Wod_TreasureChests-v1.5.1.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DailyGlobalCheck_Wod_TreasureChests-v1.5.1.zip) |
 | DailyGlobalCheck World Bosses | Plugin for world bosses | [DailyGlobalCheck_WorldBosses-v1.6.0.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DailyGlobalCheck_WorldBosses-v1.6.0.zip) |
-| Dugis Guide Viewer | In-game leveling and quest guides | [DugizGuideViewerZ 8.050 Legion.rar](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DugizGuideViewerZ 8.050 Legion.rar) |
+| Dugis Guide Viewer | In-game leveling and quest guides | [DugizGuideViewerZ 8.050 Legion.rar](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/DugizGuideViewerZ_8.050_Legion.rar) |
 | Grail | Quest prerequisite database | [Grail-095.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Grail-095.zip) |
 | HandyNotes | Custom notes on maps | [HandyNotes-v1.4.15.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/HandyNotes-v1.4.15.zip) |
 | HandyNotes | Custom notes on maps | [HandyNotes-v1.4.6.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/HandyNotes-v1.4.6.zip) |
@@ -106,7 +106,7 @@
 | World Quest Tab | Enhanced world quest interface | [WorldQuestTab_7.3.02e.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WorldQuestTab_7.3.02e.zip) |
 | World Quest Tracker | Tracks and organizes world quests | [WorldQuestTracker-v7.3.5.283-release.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WorldQuestTracker-v7.3.5.283-release.zip) |
 | World Quests List | List view for world quests | [WorldQuestsList50.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/WorldQuestsList50.zip) |
-| Zygor Guides | Comprehensive in-game guides (Contains all the guides) | [Zygor 6.1.17896 (7.3.5).zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Zygor 6.1.17896 (7.3.5).zip) |
+| Zygor Guides | Comprehensive in-game guides (Contains all the guides) | [Zygor 6.1.17896 (7.3.5).zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Zygor_6.1.17896_(7.3.5).zip) |
 | TomTom | Waypoint and navigation system | [tomtomv70300-1.0.1-beta.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/tomtomv70300-1.0.1-beta.zip) |
 
 ## 📦 Inventory, Professions & Utility Addons
@@ -167,7 +167,7 @@
 | AceGUI SharedMedia Widgets | Widgets for AceGUI with SharedMedia | [AceGUI-3.0-SharedMediaWidgets-r59-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/AceGUI-3.0-SharedMediaWidgets-r59-alpha.zip) |
 | LeafPack | Leaf's UI compilation pack | [LeafPack.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/LeafPack.zip) |
 | MetaWoW Addons Pack | Collection of addons from MetaWoW | [Metawow_Addons_Pack.rar](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Metawow_Addons_Pack.rar) |
-| Mysterious Camel Figurines | Tracks spawn locations for camel figurines in Uldum | [Mysterious Camel Figurines v1.9.5.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Mysterious Camel Figurines v1.9.5.zip) |
+| Mysterious Camel Figurines | Tracks spawn locations for camel figurines in Uldum | [Mysterious Camel Figurines v1.9.5.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Mysterious_Camel_Figurines_v1.9.5.zip) |
 
 ## About
 
