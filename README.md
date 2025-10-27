@@ -152,7 +152,7 @@
 | -- | -- | -- |
 | Battle Pet BreedID | Displays pet breed IDs | [BattlePetBreedID-v1.11.7.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/BattlePetBreedID-v1.11.7.zip) |
 | Pet Journal Enhanced | Enhances the pet journal | [PetJournalEnhanced-2.9.28-1-gd38635c-alpha.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/PetJournalEnhanced-2.9.28-1-gd38635c-alpha.zip) |
-| PETD | Pet battle related utility (assumed based on name) | [PETD-v7.0.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/PETD-v7.0.zip) |
+| PETD | Handynotes Pet Dailies | [PETD-v7.0.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/PETD-v7.0.zip) |
 | Rematch | Pet battle team management | [Rematch_4_7_11.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/Rematch_4_7_11.zip) |
 | Rematch ElvUI Skin | ElvUI skin for Rematch | [RematchElvUISkin_1_0_11.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/RematchElvUISkin_1_0_11.zip) |
 | td Battle Pet Script | Scripts for pet battles | [tdBattlePetScript-70300.04.zip](https://github.com/arft1kwerg/Legion_addons_backup/raw/main/tdBattlePetScript-70300.04.zip) |
@@ -171,4 +171,4 @@
 
 ## About
 
-This Repo contains various addons I used to have during retail Legion at one point or another. The selection is focused on patch 7.3.5 compatibility and have been tested on private servers like Tauri to ensure they still function. I am aware that some of these addons have been deleted from Curseforge or the devs own website making them very difficult to aquire.
+This Repo contains various addons I used to have during retail Legion at one point or another. The selection is focused on patch 7.3.5 compatibility and have been tested on private servers like Tauri to ensure they still function. I am aware that some of these addons have been deleted from Curseforge or the devs own website making them very difficult to aquire. For addons listed twice, the ones with a version number are generally the most "up-to-date" (Final release version prior to July 18th 2018) versions.
